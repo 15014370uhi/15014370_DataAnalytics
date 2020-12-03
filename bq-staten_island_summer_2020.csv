@@ -1,0 +1,1077 @@
+collision_date,latitude,longitude,zip_code,contributing_factor_vehicle_1
+2020-06-01,40.58124,-74.09845,10306,Driver Inattention/Distraction
+2020-06-01,40.55415,-74.2179,10309,Unsafe Speed
+2020-06-02,40.626564,-74.140755,,Driver Inattention/Distraction
+2020-06-02,40.56015,-74.19968,,Unspecified
+2020-06-02,40.523624,-74.199554,10309,Passing Too Closely
+2020-06-02,40.52257,-74.19001,10312,Failure to Yield Right-of-Way
+2020-06-02,40.638077,-74.16231,,Driver Inattention/Distraction
+2020-06-02,40.586754,-74.199554,,Driver Inattention/Distraction
+2020-06-02,40.636623,-74.08179,10301,Failure to Yield Right-of-Way
+2020-06-02,40.570465,-74.10977,10306,Unspecified
+2020-06-03,40.557182,-74.19948,,Outside Car Distraction
+2020-06-03,40.56572,-74.129425,10306,Unspecified
+2020-06-03,40.577946,-74.102325,10306,Brakes Defective
+2020-06-03,40.55298,-74.190285,10309,Driver Inattention/Distraction
+2020-06-03,40.61026,-74.097496,10304,Following Too Closely
+2020-06-03,40.624157,-74.094154,10301,Other Vehicular
+2020-06-03,40.556576,-74.200066,,Unspecified
+2020-06-04,40.61023,-74.10529,,Passing or Lane Usage Improper
+2020-06-04,,,10304,Unspecified
+2020-06-04,40.553978,-74.18576,,Obstruction/Debris
+2020-06-04,40.611313,-74.09844,,Other Vehicular
+2020-06-04,40.629284,-74.083885,10304,Unsafe Speed
+2020-06-04,40.566494,-74.11377,10306,Failure to Yield Right-of-Way
+2020-06-04,40.63804,-74.08745,10301,Driver Inattention/Distraction
+2020-06-05,40.514362,-74.24629,,Alcohol Involvement
+2020-06-05,40.61246,-74.069336,10305,Driver Inattention/Distraction
+2020-06-05,40.52257,-74.19001,10312,Pavement Slippery
+2020-06-05,40.577946,-74.102325,10306,Driver Inattention/Distraction
+2020-06-05,40.63159,-74.16039,,Unspecified
+2020-06-05,40.60595,-74.07601,,Unsafe Lane Changing
+2020-06-05,40.536247,-74.23941,10309,Unspecified
+2020-06-05,40.56144,-74.15483,10308,Traffic Control Disregarded
+2020-06-05,40.611427,-74.116844,10314,Traffic Control Disregarded
+2020-06-05,40.601803,-74.16444,,Failure to Yield Right-of-Way
+2020-06-05,40.553562,-74.15024,10308,Reaction to Uninvolved Vehicle
+2020-06-06,40.609104,-74.12637,10314,Unspecified
+2020-06-06,40.546955,-74.18129,,Failure to Yield Right-of-Way
+2020-06-06,40.520916,-74.235115,,Unspecified
+2020-06-06,40.61118,-74.15261,,Following Too Closely
+2020-06-06,40.60702,-74.16384,,Passing or Lane Usage Improper
+2020-06-06,40.61439,-74.15767,,Driver Inattention/Distraction
+2020-06-06,40.58382,-74.16879,,Failure to Yield Right-of-Way
+2020-06-06,40.584793,-74.16034,,Driver Inattention/Distraction
+2020-06-06,40.560898,-74.1271,10306,Failure to Yield Right-of-Way
+2020-06-06,40.634293,-74.10047,10301,Driver Inattention/Distraction
+2020-06-06,40.573303,-74.1151,10306,Passing Too Closely
+2020-06-06,40.62782,-74.12126,10310,Unsafe Speed
+2020-06-06,40.529453,-74.211006,10309,Unspecified
+2020-06-07,40.611313,-74.09844,,Driver Inattention/Distraction
+2020-06-07,40.561512,-74.171844,10312,Driver Inattention/Distraction
+2020-06-07,40.592648,-74.06827,10305,Backing Unsafely
+2020-06-07,40.62653,-74.16051,,Driver Inattention/Distraction
+2020-06-07,40.61964,-74.15788,,Unspecified
+2020-06-07,40.5983,-74.19076,,Unsafe Speed
+2020-06-07,40.586956,-74.11046,10304,Unsafe Speed
+2020-06-08,40.579372,-74.16948,,Reaction to Uninvolved Vehicle
+2020-06-08,40.59742,-74.06836,10305,Driver Inattention/Distraction
+2020-06-08,40.600136,-74.11303,,Following Too Closely
+2020-06-08,40.608833,-74.12118,,Following Too Closely
+2020-06-08,40.535835,-74.19378,10312,Traffic Control Disregarded
+2020-06-08,40.593582,-74.06261,,Unspecified
+2020-06-08,40.570465,-74.10977,,Illnes
+2020-06-09,40.55841,-74.16933,10312,Unspecified
+2020-06-09,40.615597,-74.06317,10305,Driver Inattention/Distraction
+2020-06-09,40.59148,-74.18707,,Unspecified
+2020-06-09,40.627365,-74.166565,,Driver Inattention/Distraction
+2020-06-09,40.5376,-74.18291,10312,Backing Unsafely
+2020-06-09,40.61619,-74.13898,,Driver Inattention/Distraction
+2020-06-09,40.6259,-74.08873,10301,Unspecified
+2020-06-09,40.62708,-74.15788,,Driver Inattention/Distraction
+2020-06-09,40.55733,-74.153015,10308,Traffic Control Disregarded
+2020-06-09,40.606884,-74.06872,10305,Alcohol Involvement
+2020-06-09,40.628197,-74.0764,10304,Drugs (illegal)
+2020-06-09,40.62474,-74.12785,10310,Illnes
+2020-06-10,40.640274,-74.13504,,Driver Inattention/Distraction
+2020-06-10,40.575615,-74.16678,,Driver Inattention/Distraction
+2020-06-10,40.612686,-74.12771,10314,Reaction to Uninvolved Vehicle
+2020-06-10,40.61658,-74.08275,10304,Driver Inattention/Distraction
+2020-06-10,40.585266,-74.15045,,Driver Inattention/Distraction
+2020-06-10,40.616833,-74.06818,10305,Failure to Yield Right-of-Way
+2020-06-10,40.636944,-74.093506,10301,Unspecified
+2020-06-10,40.592907,-74.06337,10305,Unsafe Speed
+2020-06-10,40.621002,-74.14929,,Driver Inattention/Distraction
+2020-06-10,40.595966,-74.0802,10305,Driver Inattention/Distraction
+2020-06-10,40.62016,-74.07341,10304,Driver Inattention/Distraction
+2020-06-10,40.612175,-74.07098,10305,Driver Inattention/Distraction
+2020-06-10,40.603214,-74.08471,10304,Passing Too Closely
+2020-06-10,40.588345,-74.192986,,Alcohol Involvement
+2020-06-10,40.61074,-74.09583,,Illnes
+2020-06-10,40.636692,-74.085884,10301,Unspecified
+2020-06-11,40.60612,-74.07658,10305,Unspecified
+2020-06-11,40.55154,-74.16011,10308,Driver Inattention/Distraction
+2020-06-11,40.611507,-74.08318,10304,Unspecified
+2020-06-11,40.57637,-74.12709,10306,Outside Car Distraction
+2020-06-11,40.57577,-74.16981,,Driver Inexperience
+2020-06-11,40.537857,-74.17414,,Illnes
+2020-06-11,40.545544,-74.20186,10312,Fell Asleep
+2020-06-11,40.577473,-74.16143,,Driver Inattention/Distraction
+2020-06-11,40.611824,-74.17596,,Driver Inattention/Distraction
+2020-06-11,40.559128,-74.16949,,Passing or Lane Usage Improper
+2020-06-11,40.628586,-74.07909,10304,Backing Unsafely
+2020-06-11,40.5604,-74.16975,10312,Driver Inexperience
+2020-06-12,40.60574,-74.08353,10304,Tire Failure/Inadequate
+2020-06-12,40.61427,-74.156654,,Passing or Lane Usage Improper
+2020-06-12,40.586475,-74.08694,10305,Driver Inattention/Distraction
+2020-06-12,40.64052,-74.171295,,Driver Inattention/Distraction
+2020-06-12,40.59206,-74.087456,10305,Backing Unsafely
+2020-06-12,40.628227,-74.1447,,Other Vehicular
+2020-06-12,40.563915,-74.11637,,Failure to Yield Right-of-Way
+2020-06-12,40.60499,-74.09256,10304,Driver Inexperience
+2020-06-12,40.626377,-74.133606,,Driver Inattention/Distraction
+2020-06-12,40.597633,-74.07388,,Driver Inexperience
+2020-06-12,40.570175,-74.09441,10306,Failure to Yield Right-of-Way
+2020-06-12,40.571266,-74.09118,10306,Failure to Yield Right-of-Way
+2020-06-12,40.56028,-74.1659,10312,Driver Inattention/Distraction
+2020-06-12,40.62393,-74.08171,10304,Unspecified
+2020-06-12,40.625175,-74.14944,,Driver Inattention/Distraction
+2020-06-12,40.588093,-74.19243,,Reaction to Uninvolved Vehicle
+2020-06-13,40.57241,-74.09564,10306,Driver Inattention/Distraction
+2020-06-13,40.53729,-74.223305,10309,Unsafe Speed
+2020-06-13,40.52257,-74.19001,10312,Passing or Lane Usage Improper
+2020-06-13,40.627167,-74.07595,10304,Unspecified
+2020-06-13,40.575333,-74.16179,,Driver Inattention/Distraction
+2020-06-14,40.618492,-74.07557,10304,Driver Inattention/Distraction
+2020-06-14,40.60742,-74.13818,,Driver Inattention/Distraction
+2020-06-14,40.630714,-74.10444,10301,Unspecified
+2020-06-14,40.63773,-74.07531,10301,Other Vehicular
+2020-06-15,40.532116,-74.15603,10312,Driver Inattention/Distraction
+2020-06-15,40.546207,-74.21177,,Driver Inattention/Distraction
+2020-06-15,40.563915,-74.11637,,Unspecified
+2020-06-15,40.617924,-74.155785,,Illnes
+2020-06-15,40.620438,-74.1672,,Unsafe Lane Changing
+2020-06-15,40.60297,-74.17261,,Driver Inattention/Distraction
+2020-06-15,40.625916,-74.13452,,Driver Inattention/Distraction
+2020-06-15,40.640198,-74.08504,10301,Traffic Control Disregarded
+2020-06-15,40.59791,-74.08361,10305,Unspecified
+2020-06-15,40.608612,-74.13098,,Driver Inattention/Distraction
+2020-06-15,40.57437,-74.10584,10306,Unspecified
+2020-06-15,40.62035,-74.082466,10304,Unspecified
+2020-06-15,40.6229,-74.14943,,Unspecified
+2020-06-15,0.0,0.0,10304,Unspecified
+2020-06-16,40.632793,-74.10983,10310,Unspecified
+2020-06-16,40.56266,-74.192856,10312,Unsafe Speed
+2020-06-16,40.635193,-74.07548,10301,Failure to Yield Right-of-Way
+2020-06-16,40.615643,-74.06729,10305,Unspecified
+2020-06-16,40.593716,-74.08479,,Drugs (illegal)
+2020-06-16,40.564194,-74.186745,10312,Driver Inattention/Distraction
+2020-06-17,40.551563,-74.1453,10308,Traffic Control Disregarded
+2020-06-17,40.576965,-74.16974,,View Obstructed/Limited
+2020-06-17,40.540577,-74.20676,10309,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion
+2020-06-17,40.59854,-74.07949,10305,Unsafe Lane Changing
+2020-06-17,40.53717,-74.20532,10309,Failure to Yield Right-of-Way
+2020-06-17,40.59567,-74.073685,10305,Traffic Control Disregarded
+2020-06-17,40.61504,-74.06685,,Unspecified
+2020-06-17,40.63418,-74.08557,10301,Brakes Defective
+2020-06-17,40.608307,-74.13132,,Unsafe Speed
+2020-06-17,40.524612,-74.230446,10309,Pavement Slippery
+2020-06-18,40.593166,-74.09303,10304,Driver Inattention/Distraction
+2020-06-18,40.63195,-74.14667,,Driver Inattention/Distraction
+2020-06-18,40.614075,-74.097534,10301,Unspecified
+2020-06-18,40.60809,-74.14093,,Driver Inattention/Distraction
+2020-06-18,40.61368,-74.078224,10304,Driver Inattention/Distraction
+2020-06-19,40.61436,-74.153145,,Unsafe Speed
+2020-06-19,,,10309,Reaction to Uninvolved Vehicle
+2020-06-19,40.610172,-74.099365,10314,Reaction to Uninvolved Vehicle
+2020-06-19,,,10309,Turning Improperly
+2020-06-19,40.620686,-74.11002,10301,Unspecified
+2020-06-19,40.61581,-74.0838,,Unspecified
+2020-06-19,40.57979,-74.1275,,Failure to Yield Right-of-Way
+2020-06-19,40.58899,-74.1392,10314,Unspecified
+2020-06-19,40.63114,-74.10277,10301,Unspecified
+2020-06-20,40.60453,-74.12079,,Driver Inattention/Distraction
+2020-06-20,40.61244,-74.13231,,Driver Inattention/Distraction
+2020-06-20,40.607185,-74.16239,,Driver Inattention/Distraction
+2020-06-20,40.590015,-74.09177,10305,Driver Inattention/Distraction
+2020-06-20,40.56763,-74.11263,10306,Driver Inexperience
+2020-06-20,40.608223,-74.1294,,Driver Inattention/Distraction
+2020-06-20,40.59547,-74.18856,,Driver Inattention/Distraction
+2020-06-20,40.575645,-74.169815,,Driver Inattention/Distraction
+2020-06-20,40.61087,-74.16724,,Driver Inattention/Distraction
+2020-06-20,40.639652,-74.07551,10301,Failure to Yield Right-of-Way
+2020-06-21,40.63961,-74.08419,10301,Unspecified
+2020-06-21,40.61023,-74.10529,,Following Too Closely
+2020-06-21,40.63822,-74.0882,10301,Unspecified
+2020-06-21,40.619446,-74.15081,,Driver Inattention/Distraction
+2020-06-21,40.556534,-74.12813,10306,Driver Inattention/Distraction
+2020-06-21,40.59034,-74.06663,10305,Turning Improperly
+2020-06-21,40.590977,-74.16542,,Driver Inattention/Distraction
+2020-06-21,40.6328,-74.11584,10310,Unspecified
+2020-06-21,40.588387,-74.09965,10304,Traffic Control Disregarded
+2020-06-21,40.61816,-74.162315,,Unspecified
+2020-06-22,40.630116,-74.108925,10310,Driver Inattention/Distraction
+2020-06-22,40.525764,-74.2273,,Unsafe Lane Changing
+2020-06-22,40.54958,-74.137375,,Unspecified
+2020-06-22,40.616875,-74.13594,,Driver Inattention/Distraction
+2020-06-22,40.532482,-74.2031,10309,Other Vehicular
+2020-06-22,40.601486,-74.193275,,Failure to Yield Right-of-Way
+2020-06-22,40.606243,-74.12352,,Driver Inattention/Distraction
+2020-06-22,,,10305,Unspecified
+2020-06-22,40.61463,-74.12265,10314,Driver Inattention/Distraction
+2020-06-22,40.59034,-74.06663,10305,Failure to Yield Right-of-Way
+2020-06-22,40.606327,-74.07994,,Unsafe Lane Changing
+2020-06-22,40.626392,-74.13334,,Failure to Yield Right-of-Way
+2020-06-22,40.630516,-74.139565,,Backing Unsafely
+2020-06-23,40.634678,-74.08134,10304,Unspecified
+2020-06-23,40.556385,-74.12295,10306,Unspecified
+2020-06-23,40.589344,-74.1015,10304,Failure to Yield Right-of-Way
+2020-06-23,40.51852,-74.19708,10309,Unspecified
+2020-06-23,40.609943,-74.13827,,Driver Inattention/Distraction
+2020-06-23,40.59723,-74.06893,10305,Driver Inattention/Distraction
+2020-06-23,40.587074,-74.10393,10306,Unspecified
+2020-06-24,40.600117,-74.13107,,Driver Inattention/Distraction
+2020-06-24,40.615993,-74.16361,,Driver Inattention/Distraction
+2020-06-24,40.555363,-74.14001,10306,Driver Inexperience
+2020-06-24,40.520283,-74.19647,10309,Unspecified
+2020-06-24,40.624565,-74.15878,,Driver Inattention/Distraction
+2020-06-24,40.51149,-74.24059,,Unsafe Lane Changing
+2020-06-24,40.573196,-74.13463,10306,Unspecified
+2020-06-24,40.582756,-74.13041,,Driver Inattention/Distraction
+2020-06-24,40.621937,-74.13366,,Unspecified
+2020-06-24,40.570126,-74.10915,10306,Backing Unsafely
+2020-06-24,40.52991,-74.19609,,Passenger Distraction
+2020-06-24,,,10304,Passing Too Closely
+2020-06-24,40.568893,-74.09205,,Unspecified
+2020-06-24,40.624523,-74.11702,10310,Unspecified
+2020-06-24,40.63159,-74.16039,,Driver Inattention/Distraction
+2020-06-25,40.629906,-74.11001,,Passing or Lane Usage Improper
+2020-06-25,40.541916,-74.17744,10312,Unspecified
+2020-06-25,40.61167,-74.08834,10304,Following Too Closely
+2020-06-25,40.54958,-74.137375,10308,Turning Improperly
+2020-06-25,40.54653,-74.180435,10312,Failure to Yield Right-of-Way
+2020-06-25,40.61658,-74.08275,10304,Driver Inattention/Distraction
+2020-06-25,40.557087,-74.16808,,Failure to Yield Right-of-Way
+2020-06-25,40.632103,-74.147354,,Driver Inattention/Distraction
+2020-06-25,40.57097,-74.09589,10306,Passing or Lane Usage Improper
+2020-06-25,40.573658,-74.09558,10306,Driver Inattention/Distraction
+2020-06-25,40.633167,-74.09357,10301,Unspecified
+2020-06-26,40.59328,-74.18582,,Driver Inattention/Distraction
+2020-06-26,40.52358,-74.187225,10312,Failure to Yield Right-of-Way
+2020-06-26,40.632717,-74.14643,,Driver Inattention/Distraction
+2020-06-26,40.5777,-74.117584,,Following Too Closely
+2020-06-26,40.61123,-74.088646,10304,Driver Inattention/Distraction
+2020-06-26,40.561935,-74.159164,10308,Driver Inattention/Distraction
+2020-06-26,40.607357,-74.11822,10314,Unspecified
+2020-06-26,40.560394,-74.120056,10306,Driver Inattention/Distraction
+2020-06-26,40.608543,-74.08886,,Following Too Closely
+2020-06-27,40.553192,-74.164345,10312,Passing Too Closely
+2020-06-27,,,10309,Driver Inattention/Distraction
+2020-06-27,40.540577,-74.20676,,Failure to Yield Right-of-Way
+2020-06-27,40.53592,-74.15968,,Unspecified
+2020-06-27,40.588654,-74.1623,,Driver Inattention/Distraction
+2020-06-27,40.58422,-74.1073,,Unsafe Lane Changing
+2020-06-27,40.60975,-74.14894,,Pavement Slippery
+2020-06-27,40.635887,-74.16826,,Driver Inattention/Distraction
+2020-06-27,40.637154,-74.086555,10301,Unspecified
+2020-06-27,40.58124,-74.09845,10306,Driver Inattention/Distraction
+2020-06-27,40.63056,-74.1057,,Unspecified
+2020-06-28,40.604122,-74.09051,10304,Driver Inattention/Distraction
+2020-06-28,40.580208,-74.09975,,Backing Unsafely
+2020-06-28,40.54534,-74.160576,10312,Driver Inexperience
+2020-06-28,40.621704,-74.13138,10314,Driver Inattention/Distraction
+2020-06-28,40.642986,-74.0838,10301,Backing Unsafely
+2020-06-28,40.58303,-74.10385,10306,Unspecified
+2020-06-28,40.59278,-74.087166,10305,Driver Inattention/Distraction
+2020-06-29,40.58048,-74.09735,10306,Driver Inattention/Distraction
+2020-06-29,40.601906,-74.07479,10305,Driver Inattention/Distraction
+2020-06-29,40.55759,-74.13818,10306,Failure to Yield Right-of-Way
+2020-06-29,40.61132,-74.114716,,Unsafe Speed
+2020-06-29,40.588726,-74.08769,10305,Turning Improperly
+2020-06-29,40.5177,-74.24055,10307,Eating or Drinking
+2020-06-29,40.637154,-74.1602,,Driver Inattention/Distraction
+2020-06-30,40.542423,-74.14592,10308,Driver Inattention/Distraction
+2020-06-30,40.61255,-74.12969,10314,Unspecified
+2020-06-30,40.531433,-74.20688,10309,Unspecified
+2020-06-30,40.603184,-74.162834,,Following Too Closely
+2020-06-30,40.640354,-74.13157,,Unspecified
+2020-06-30,40.628273,-74.142044,,Backing Unsafely
+2020-06-30,40.640385,-74.1722,,Driver Inattention/Distraction
+2020-06-30,40.560394,-74.120056,10306,Failure to Yield Right-of-Way
+2020-06-30,40.62043,-74.07096,10305,Driver Inattention/Distraction
+2020-06-30,40.618755,-74.06956,10305,Driver Inattention/Distraction
+2020-07-01,40.577946,-74.102325,10306,Unspecified
+2020-07-01,40.55426,-74.21292,,View Obstructed/Limited
+2020-07-01,40.599705,-74.13101,,Unspecified
+2020-07-01,40.64637,-74.08949,10301,Accelerator Defective
+2020-07-01,40.571625,-74.11192,,Driver Inattention/Distraction
+2020-07-01,40.57257,-74.169876,,Driver Inattention/Distraction
+2020-07-01,40.61242,-74.09936,10301,Unspecified
+2020-07-01,40.588078,-74.16127,,Driver Inattention/Distraction
+2020-07-01,40.602028,-74.18777,,Unsafe Lane Changing
+2020-07-01,,,10304,Driver Inattention/Distraction
+2020-07-01,40.608273,-74.13213,,Driver Inattention/Distraction
+2020-07-01,40.5379,-74.15915,10312,Following Too Closely
+2020-07-01,40.64289,-74.11386,10310,Driver Inattention/Distraction
+2020-07-02,40.609627,-74.14955,,Driver Inattention/Distraction
+2020-07-02,40.572132,-74.10809,10306,Traffic Control Disregarded
+2020-07-02,40.55554,-74.17562,,Driver Inattention/Distraction
+2020-07-02,40.603832,-74.06895,,Unsafe Lane Changing
+2020-07-02,40.610508,-74.09576,,Following Too Closely
+2020-07-02,40.62016,-74.076965,10304,Passing or Lane Usage Improper
+2020-07-02,40.640003,-74.13182,,Driver Inattention/Distraction
+2020-07-02,40.59703,-74.09337,10304,Unspecified
+2020-07-02,40.626328,-74.13132,10310,Unspecified
+2020-07-02,40.644688,-74.082504,10301,Passing or Lane Usage Improper
+2020-07-02,40.556618,-74.203995,10309,Turning Improperly
+2020-07-02,40.574905,-74.121735,,Driver Inattention/Distraction
+2020-07-02,40.62442,-74.082634,10304,Driver Inattention/Distraction
+2020-07-02,40.623585,-74.08278,10304,Driver Inattention/Distraction
+2020-07-03,40.642075,-74.1081,10310,Driver Inattention/Distraction
+2020-07-03,40.59325,-74.11065,10304,Fell Asleep
+2020-07-03,40.629078,-74.11511,10310,Driver Inattention/Distraction
+2020-07-03,40.58124,-74.09845,10306,Alcohol Involvement
+2020-07-03,40.6321,-74.164444,,Unspecified
+2020-07-03,40.60169,-74.07661,10305,Following Too Closely
+2020-07-03,40.627052,-74.16485,,Driver Inattention/Distraction
+2020-07-03,40.58268,-74.10925,10306,Driver Inattention/Distraction
+2020-07-03,40.57637,-74.12709,10306,Driver Inattention/Distraction
+2020-07-03,40.511127,-74.248886,10307,Unspecified
+2020-07-03,40.57761,-74.11189,,Driver Inattention/Distraction
+2020-07-03,40.55436,-74.151695,10308,Driver Inattention/Distraction
+2020-07-03,40.640263,-74.13514,,Driver Inattention/Distraction
+2020-07-03,40.581814,-74.097725,,Driver Inattention/Distraction
+2020-07-03,40.566494,-74.11377,10306,Following Too Closely
+2020-07-03,40.609627,-74.14955,,Driver Inattention/Distraction
+2020-07-04,40.58902,-74.13867,,Driver Inattention/Distraction
+2020-07-04,40.63854,-74.107346,10310,View Obstructed/Limited
+2020-07-04,40.610214,-74.1202,,Following Too Closely
+2020-07-04,40.573193,-74.11009,10306,Failure to Yield Right-of-Way
+2020-07-04,40.62731,-74.08307,10304,Driver Inattention/Distraction
+2020-07-04,40.61701,-74.08358,10304,Driver Inattention/Distraction
+2020-07-04,40.584793,-74.16034,,Driver Inattention/Distraction
+2020-07-05,40.606003,-74.06572,10305,Unsafe Speed
+2020-07-05,40.60635,-74.085144,10304,Unsafe Speed
+2020-07-05,40.55928,-74.15137,10308,Unsafe Speed
+2020-07-05,40.620724,-74.09839,10301,Unspecified
+2020-07-05,40.63688,-74.13947,,Unspecified
+2020-07-05,40.59981,-74.178246,,Driver Inattention/Distraction
+2020-07-05,40.613525,-74.11685,10314,Driver Inattention/Distraction
+2020-07-05,40.552948,-74.168106,,Other Vehicular
+2020-07-05,40.624603,-74.079605,10304,Driver Inattention/Distraction
+2020-07-05,40.61054,-74.103455,,Unsafe Speed
+2020-07-06,40.57805,-74.079155,10305,Animals Action
+2020-07-06,40.576965,-74.16974,,Driver Inattention/Distraction
+2020-07-06,40.576008,-74.10727,10306,Failure to Yield Right-of-Way
+2020-07-06,40.605034,-74.13171,,Driver Inattention/Distraction
+2020-07-06,40.595493,-74.08605,10305,Driver Inattention/Distraction
+2020-07-06,40.63115,-74.13108,,Traffic Control Disregarded
+2020-07-06,40.61054,-74.103455,,Outside Car Distraction
+2020-07-06,40.504482,-74.24727,10307,Unspecified
+2020-07-06,40.57323,-74.14702,10306,Driver Inattention/Distraction
+2020-07-06,40.61196,-74.13771,,Backing Unsafely
+2020-07-06,40.636333,-74.11151,10310,Unspecified
+2020-07-06,40.636036,-74.15648,,Unspecified
+2020-07-07,40.636635,-74.11264,10310,Unspecified
+2020-07-07,40.643925,-74.076454,10301,Alcohol Involvement
+2020-07-07,40.610897,-74.10001,10301,Driver Inattention/Distraction
+2020-07-07,40.60783,-74.1465,,Driver Inexperience
+2020-07-07,40.512028,-74.24976,10307,Unspecified
+2020-07-07,40.525387,-74.23927,10309,Backing Unsafely
+2020-07-07,40.586678,-74.19169,,Backing Unsafely
+2020-07-07,40.588078,-74.16127,,Driver Inattention/Distraction
+2020-07-07,40.606895,-74.08541,,View Obstructed/Limited
+2020-07-07,40.55199,-74.1393,10308,Driver Inattention/Distraction
+2020-07-07,40.60143,-74.13026,,Failure to Yield Right-of-Way
+2020-07-07,40.634792,-74.166245,,Driver Inattention/Distraction
+2020-07-07,40.624435,-74.13687,,Unspecified
+2020-07-07,40.62055,-74.16919,,Driver Inattention/Distraction
+2020-07-07,40.530106,-74.190475,10312,Driver Inattention/Distraction
+2020-07-07,40.625607,-74.14865,,Driver Inattention/Distraction
+2020-07-08,40.537262,-74.15051,,Driver Inattention/Distraction
+2020-07-08,40.543495,-74.14747,10308,Backing Unsafely
+2020-07-08,40.556,-74.19475,,Passing Too Closely
+2020-07-08,40.608307,-74.13132,,Following Too Closely
+2020-07-08,40.570816,-74.092705,10306,Traffic Control Disregarded
+2020-07-08,40.564705,-74.12721,10306,Failure to Yield Right-of-Way
+2020-07-08,40.622307,-74.14268,,Driver Inattention/Distraction
+2020-07-08,40.58946,-74.12777,10314,Outside Car Distraction
+2020-07-08,40.50447,-74.243454,,Failure to Yield Right-of-Way
+2020-07-08,40.611706,-74.12767,10314,Unspecified
+2020-07-08,40.557568,-74.207,,Failure to Yield Right-of-Way
+2020-07-09,40.646606,-74.0863,10301,Driver Inattention/Distraction
+2020-07-09,40.62697,-74.13111,10302,Driver Inattention/Distraction
+2020-07-09,40.557484,-74.20753,10309,Unspecified
+2020-07-09,40.572872,-74.1466,,Driver Inattention/Distraction
+2020-07-09,40.609947,-74.09219,,Traffic Control Disregarded
+2020-07-09,40.6347,-74.106544,10310,Unspecified
+2020-07-10,40.629787,-74.07669,10304,Driver Inattention/Distraction
+2020-07-10,40.636707,-74.11938,10310,Unspecified
+2020-07-10,40.584106,-74.08723,10305,Driver Inattention/Distraction
+2020-07-10,40.5435,-74.14187,10308,Driver Inattention/Distraction
+2020-07-10,40.61881,-74.0906,10301,Unspecified
+2020-07-10,40.547153,-74.21577,10309,Passing Too Closely
+2020-07-10,40.542976,-74.16391,10312,Unspecified
+2020-07-10,40.63392,-74.12514,10310,Driver Inattention/Distraction
+2020-07-10,40.629787,-74.07669,10304,Unspecified
+2020-07-10,40.633995,-74.12415,10310,Illnes
+2020-07-10,40.61636,-74.15677,,Unspecified
+2020-07-10,40.562675,-74.1143,10306,Driver Inattention/Distraction
+2020-07-10,40.59942,-74.064095,10305,Pavement Slippery
+2020-07-11,40.626457,-74.15975,,Driver Inattention/Distraction
+2020-07-11,40.596657,-74.0694,10305,Driver Inattention/Distraction
+2020-07-11,40.63642,-74.124466,10310,Unspecified
+2020-07-11,40.63363,-74.138985,,Failure to Yield Right-of-Way
+2020-07-11,40.61658,-74.08275,10304,Driver Inexperience
+2020-07-11,40.549213,-74.199745,,Passing or Lane Usage Improper
+2020-07-11,40.617188,-74.11766,10314,Driver Inattention/Distraction
+2020-07-11,40.588413,-74.166725,,Driver Inattention/Distraction
+2020-07-11,40.511734,-74.21044,,Animals Action
+2020-07-11,40.618187,-74.06915,10305,Driver Inattention/Distraction
+2020-07-12,40.55924,-74.171684,,Passing or Lane Usage Improper
+2020-07-12,40.61118,-74.15261,,Unsafe Speed
+2020-07-12,40.63924,-74.12178,10310,Passing or Lane Usage Improper
+2020-07-12,40.624973,-74.14486,,Passing or Lane Usage Improper
+2020-07-12,40.619865,-74.15942,,Driver Inattention/Distraction
+2020-07-12,40.61074,-74.09583,,Reaction to Uninvolved Vehicle
+2020-07-12,40.533665,-74.171585,10312,Unspecified
+2020-07-12,40.62776,-74.076294,10304,Driver Inattention/Distraction
+2020-07-12,40.614143,-74.06863,10305,Unspecified
+2020-07-12,40.634075,-74.12308,10310,Unspecified
+2020-07-13,40.610897,-74.10001,10301,Pavement Slippery
+2020-07-13,40.59263,-74.10084,10304,Unspecified
+2020-07-13,40.627647,-74.13202,,Driver Inattention/Distraction
+2020-07-13,40.594574,-74.16194,,Driver Inattention/Distraction
+2020-07-13,40.636692,-74.085884,10301,Unspecified
+2020-07-13,40.5609,-74.16901,10312,View Obstructed/Limited
+2020-07-13,,,10309,Unspecified
+2020-07-13,40.584656,-74.15514,,Driver Inattention/Distraction
+2020-07-13,40.546814,-74.14465,10308,Driver Inattention/Distraction
+2020-07-13,40.628185,-74.14792,,Driver Inattention/Distraction
+2020-07-13,40.509666,-74.21807,10309,Other Vehicular
+2020-07-14,40.605415,-74.06477,10305,Fatigued/Drowsy
+2020-07-14,40.608253,-74.08879,,Driver Inattention/Distraction
+2020-07-14,40.59861,-74.080765,10305,Following Too Closely
+2020-07-14,40.640198,-74.08504,10301,Unspecified
+2020-07-14,40.6313,-74.08583,10304,Driver Inattention/Distraction
+2020-07-14,40.63656,-74.16357,,Driver Inattention/Distraction
+2020-07-14,40.59415,-74.086586,10305,Unspecified
+2020-07-14,40.575275,-74.09183,10306,Driver Inattention/Distraction
+2020-07-14,40.596733,-74.07045,10305,Other Vehicular
+2020-07-15,40.638165,-74.13032,,Fell Asleep
+2020-07-15,40.5171,-74.233894,10307,Driver Inattention/Distraction
+2020-07-15,40.592995,-74.07512,10305,Driver Inexperience
+2020-07-15,40.634483,-74.086876,10301,Driver Inattention/Distraction
+2020-07-15,40.61074,-74.09583,,Other Vehicular
+2020-07-15,40.555454,-74.1639,10312,Failure to Yield Right-of-Way
+2020-07-15,40.5171,-74.233894,10307,Backing Unsafely
+2020-07-15,40.606182,-74.07613,,Unsafe Lane Changing
+2020-07-15,40.57969,-74.100395,10306,Traffic Control Disregarded
+2020-07-15,40.570877,-74.16984,,Following Too Closely
+2020-07-15,40.515636,-74.23954,10307,Driver Inattention/Distraction
+2020-07-16,40.608253,-74.08879,,Failure to Yield Right-of-Way
+2020-07-16,40.601204,-74.06509,,Traffic Control Disregarded
+2020-07-16,40.639202,-74.16818,,Driver Inattention/Distraction
+2020-07-16,40.5433,-74.16424,,Driver Inexperience
+2020-07-16,40.63277,-74.09004,10301,Animals Action
+2020-07-16,40.639805,-74.171265,,Following Too Closely
+2020-07-16,40.632675,-74.116844,10310,Driver Inexperience
+2020-07-16,40.61237,-74.11122,10301,Reaction to Uninvolved Vehicle
+2020-07-16,40.558887,-74.1977,,Fatigued/Drowsy
+2020-07-16,40.563446,-74.169754,10312,Reaction to Uninvolved Vehicle
+2020-07-16,40.541313,-74.177345,10312,Unspecified
+2020-07-16,40.635933,-74.07585,10301,Following Too Closely
+2020-07-16,40.610188,-74.08688,10304,Unspecified
+2020-07-17,40.635933,-74.07585,10301,Unspecified
+2020-07-17,40.608852,-74.15334,,Driver Inattention/Distraction
+2020-07-17,40.57905,-74.09345,,Backing Unsafely
+2020-07-17,40.50918,-74.24704,10307,Unspecified
+2020-07-17,40.55198,-74.15673,10308,Driver Inattention/Distraction
+2020-07-17,40.52418,-74.2348,10309,Driver Inattention/Distraction
+2020-07-17,40.632793,-74.120514,10310,
+2020-07-17,40.53599,-74.21719,,Fell Asleep
+2020-07-17,40.576324,-74.11283,10306,Driver Inattention/Distraction
+2020-07-18,40.506187,-74.2349,10307,Driver Inattention/Distraction
+2020-07-18,40.61357,-74.11621,10314,Unspecified
+2020-07-18,40.555744,-74.14227,,Unspecified
+2020-07-18,40.61289,-74.082985,10304,Unspecified
+2020-07-18,40.637634,-74.121315,10310,Unspecified
+2020-07-18,40.627113,-74.080826,10304,Driver Inattention/Distraction
+2020-07-18,40.64481,-74.09598,10301,Driver Inattention/Distraction
+2020-07-18,40.55204,-74.14087,10308,Reaction to Uninvolved Vehicle
+2020-07-18,40.530968,-74.18387,10312,Driver Inattention/Distraction
+2020-07-19,40.61855,-74.15607,,Driver Inattention/Distraction
+2020-07-19,40.61137,-74.176315,,Unsafe Speed
+2020-07-19,40.58045,-74.16123,,Driver Inattention/Distraction
+2020-07-19,40.629635,-74.132744,,Unspecified
+2020-07-19,40.50788,-74.22924,10309,Unspecified
+2020-07-19,40.631725,-74.13824,,Driver Inattention/Distraction
+2020-07-19,40.59981,-74.178246,,Driver Inattention/Distraction
+2020-07-20,40.609505,-74.181885,,Other Vehicular
+2020-07-20,40.532616,-74.22389,,Unsafe Speed
+2020-07-20,40.608223,-74.1294,,Following Too Closely
+2020-07-20,40.582287,-74.16907,,Driver Inattention/Distraction
+2020-07-20,40.609955,-74.0724,10305,Backing Unsafely
+2020-07-20,40.534267,-74.15398,,Failure to Yield Right-of-Way
+2020-07-21,40.62715,-74.16544,,Backing Unsafely
+2020-07-21,40.632683,-74.10735,10310,Driver Inexperience
+2020-07-21,40.60194,-74.08219,,Following Too Closely
+2020-07-21,40.555824,-74.16103,,Unspecified
+2020-07-21,40.560535,-74.18042,,Failure to Yield Right-of-Way
+2020-07-21,40.60915,-74.14987,,Failure to Yield Right-of-Way
+2020-07-21,40.55289,-74.168106,10312,Unspecified
+2020-07-21,40.62776,-74.076294,10304,Driver Inattention/Distraction
+2020-07-21,40.648228,-74.0845,10301,Unspecified
+2020-07-22,40.632164,-74.166336,,Following Too Closely
+2020-07-22,40.587307,-74.1911,,Unspecified
+2020-07-22,40.5566,-74.211754,10309,Failure to Yield Right-of-Way
+2020-07-22,40.630093,-74.10351,10301,Passing or Lane Usage Improper
+2020-07-22,40.63515,-74.14068,,Driver Inattention/Distraction
+2020-07-22,40.516804,-74.23348,10307,Illnes
+2020-07-22,40.648228,-74.086136,10301,Alcohol Involvement
+2020-07-22,40.608982,-74.088135,10304,Traffic Control Disregarded
+2020-07-22,40.625916,-74.13452,,Backing Unsafely
+2020-07-23,40.628693,-74.14338,,Unspecified
+2020-07-23,40.57323,-74.14702,10306,Pavement Slippery
+2020-07-23,40.54869,-74.15463,10308,Driver Inattention/Distraction
+2020-07-23,40.550816,-74.16572,,Driver Inexperience
+2020-07-23,40.604782,-74.070755,,Unsafe Lane Changing
+2020-07-23,40.63795,-74.14479,,Failure to Yield Right-of-Way
+2020-07-23,40.554672,-74.21301,,Alcohol Involvement
+2020-07-23,40.611977,-74.09901,10301,Brakes Defective
+2020-07-23,40.559746,-74.133125,,Unspecified
+2020-07-23,40.63786,-74.11763,10310,Unspecified
+2020-07-24,40.605423,-74.072464,,Unspecified
+2020-07-24,40.64208,-74.07531,10301,Pavement Slippery
+2020-07-24,40.557182,-74.19948,10312,Passing Too Closely
+2020-07-24,40.55545,-74.19769,10312,Passing Too Closely
+2020-07-24,40.577084,-74.11089,10306,Driver Inattention/Distraction
+2020-07-24,40.57796,-74.095276,10306,Unspecified
+2020-07-24,40.61407,-74.08342,10304,Driver Inattention/Distraction
+2020-07-24,40.58053,-74.097435,10306,Driver Inattention/Distraction
+2020-07-24,40.639053,-74.17125,,Unspecified
+2020-07-24,40.570877,-74.16984,,Driver Inattention/Distraction
+2020-07-24,40.63299,-74.07679,10301,Unspecified
+2020-07-24,40.55613,-74.203354,,Other Vehicular
+2020-07-24,40.614025,-74.08479,10304,Driver Inattention/Distraction
+2020-07-24,40.61335,-74.0656,10305,View Obstructed/Limited
+2020-07-24,40.574627,-74.11757,,Following Too Closely
+2020-07-24,40.547806,-74.15965,10308,Passing Too Closely
+2020-07-24,40.615204,-74.084656,10304,Driver Inattention/Distraction
+2020-07-24,40.636864,-74.15287,,Traffic Control Device Improper/Non-Working
+2020-07-24,40.578537,-74.10712,10306,Unspecified
+2020-07-25,40.64289,-74.11386,10310,Brakes Defective
+2020-07-25,40.608307,-74.13132,,Reaction to Uninvolved Vehicle
+2020-07-25,40.629208,-74.1139,10310,Driver Inattention/Distraction
+2020-07-25,40.619305,-74.16101,,Failure to Yield Right-of-Way
+2020-07-25,40.64169,-74.08056,10301,Aggressive Driving/Road Rage
+2020-07-25,40.634144,-74.106415,10310,Unspecified
+2020-07-25,40.62862,-74.124695,10310,Unspecified
+2020-07-25,,,10312,Alcohol Involvement
+2020-07-26,40.622826,-74.162224,,Driver Inattention/Distraction
+2020-07-26,40.54343,-74.17703,10312,Other Electronic Device
+2020-07-26,40.556934,-74.21084,10309,Fell Asleep
+2020-07-26,40.575832,-74.12409,10306,Driver Inattention/Distraction
+2020-07-26,40.580208,-74.09975,10306,Following Too Closely
+2020-07-26,40.592083,-74.067955,10305,Failure to Yield Right-of-Way
+2020-07-26,40.594296,-74.06716,10305,Driver Inattention/Distraction
+2020-07-26,40.638397,-74.08824,10301,Driver Inattention/Distraction
+2020-07-26,40.624203,-74.177124,,Following Too Closely
+2020-07-26,40.608433,-74.15544,,Driver Inattention/Distraction
+2020-07-27,40.62759,-74.1718,,Driver Inattention/Distraction
+2020-07-27,40.61832,-74.07885,10304,Unspecified
+2020-07-27,40.59102,-74.100914,10304,Following Too Closely
+2020-07-27,40.624523,-74.11702,10310,Unspecified
+2020-07-27,40.639652,-74.07551,10301,Driver Inattention/Distraction
+2020-07-27,40.63559,-74.115776,10310,Unspecified
+2020-07-27,40.631485,-74.13515,,Reaction to Uninvolved Vehicle
+2020-07-28,40.62345,-74.08279,10304,Unspecified
+2020-07-28,40.57811,-74.111206,,Fell Asleep
+2020-07-28,40.640263,-74.08799,10301,Failure to Yield Right-of-Way
+2020-07-28,40.600895,-74.176735,,Driver Inattention/Distraction
+2020-07-28,40.554714,-74.21722,,Oversized Vehicle
+2020-07-28,40.606358,-74.167366,,View Obstructed/Limited
+2020-07-28,40.56567,-74.139084,,Illnes
+2020-07-28,40.563675,-74.10135,10306,Unsafe Speed
+2020-07-28,40.563915,-74.11637,,Unspecified
+2020-07-28,40.561512,-74.171844,10312,Brakes Defective
+2020-07-28,40.61593,-74.087425,10304,Driver Inattention/Distraction
+2020-07-28,40.64481,-74.09598,10301,Turning Improperly
+2020-07-28,40.54722,-74.14792,,Traffic Control Disregarded
+2020-07-28,40.526264,-74.20153,,Unspecified
+2020-07-28,40.576504,-74.1037,10306,Glare
+2020-07-28,40.592995,-74.09429,10304,Unsafe Speed
+2020-07-28,40.619728,-74.08358,10304,Driver Inattention/Distraction
+2020-07-28,40.561077,-74.16984,10312,Driver Inattention/Distraction
+2020-07-29,40.61242,-74.09936,10301,Passing Too Closely
+2020-07-29,40.5983,-74.19076,,Driver Inattention/Distraction
+2020-07-29,40.621983,-74.08253,10304,Unspecified
+2020-07-29,40.603508,-74.134346,,Unspecified
+2020-07-29,40.618492,-74.07557,10304,Driver Inattention/Distraction
+2020-07-29,40.616413,-74.103516,10301,Driver Inattention/Distraction
+2020-07-29,40.57642,-74.11875,10306,Lost Consciousness
+2020-07-29,40.525784,-74.235306,10309,Driver Inattention/Distraction
+2020-07-29,40.618282,-74.105194,10301,Driver Inattention/Distraction
+2020-07-29,40.620438,-74.1672,,Following Too Closely
+2020-07-29,40.53842,-74.23742,,Driver Inattention/Distraction
+2020-07-30,40.62926,-74.076614,10304,Aggressive Driving/Road Rage
+2020-07-30,40.623585,-74.08278,10304,Reaction to Uninvolved Vehicle
+2020-07-30,40.579735,-74.10934,10306,Backing Unsafely
+2020-07-30,40.54653,-74.180435,10312,Drugs (illegal)
+2020-07-30,,,10309,Unspecified
+2020-07-30,40.61578,-74.103035,10301,Driver Inattention/Distraction
+2020-07-30,40.627,-74.164536,,Driver Inattention/Distraction
+2020-07-30,,,10301,Driver Inattention/Distraction
+2020-07-30,40.628185,-74.14792,,Traffic Control Disregarded
+2020-07-30,40.591618,-74.19082,,View Obstructed/Limited
+2020-07-30,40.62894,-74.116196,10310,Following Too Closely
+2020-07-30,40.617702,-74.09408,10304,Driver Inattention/Distraction
+2020-07-30,40.593655,-74.0809,10305,Backing Unsafely
+2020-07-31,40.53541,-74.19216,,Unsafe Speed
+2020-07-31,40.619408,-74.09023,10301,Unsafe Speed
+2020-07-31,,,10309,Driver Inattention/Distraction
+2020-07-31,40.613075,-74.12257,10314,Driver Inattention/Distraction
+2020-07-31,40.549644,-74.148796,,Unspecified
+2020-07-31,40.54713,-74.14045,10308,Following Too Closely
+2020-07-31,,,10309,Driver Inattention/Distraction
+2020-07-31,40.622353,-74.12429,,Unspecified
+2020-07-31,40.63574,-74.08374,10301,Following Too Closely
+2020-07-31,40.632515,-74.15736,,Driver Inattention/Distraction
+2020-07-31,40.625126,-74.145035,,Driver Inattention/Distraction
+2020-08-01,,,10310,Driver Inattention/Distraction
+2020-08-01,40.617397,-74.08487,10304,Driver Inattention/Distraction
+2020-08-01,40.608223,-74.1294,,Following Too Closely
+2020-08-01,40.63029,-74.08891,10301,Alcohol Involvement
+2020-08-01,40.613274,-74.06773,,Following Too Closely
+2020-08-01,40.634697,-74.08422,10304,Unspecified
+2020-08-01,40.645924,-74.08603,10301,Passing Too Closely
+2020-08-01,40.575375,-74.18999,,Driver Inexperience
+2020-08-01,40.541172,-74.19641,,Unsafe Speed
+2020-08-01,40.61526,-74.16017,,Driver Inexperience
+2020-08-01,40.637466,-74.12461,10310,Unspecified
+2020-08-01,40.58781,-74.09851,,Following Too Closely
+2020-08-01,40.54653,-74.180435,,Driver Inexperience
+2020-08-01,40.587414,-74.069496,10305,Unspecified
+2020-08-01,40.630806,-74.10369,10301,Backing Unsafely
+2020-08-01,40.61748,-74.081505,10304,Driver Inattention/Distraction
+2020-08-01,40.61965,-74.09969,10301,Driver Inattention/Distraction
+2020-08-01,40.61163,-74.15957,,Driver Inattention/Distraction
+2020-08-01,40.639782,-74.16474,,Failure to Yield Right-of-Way
+2020-08-01,40.610508,-74.09576,,Following Too Closely
+2020-08-01,40.645332,-74.085594,10301,Driver Inattention/Distraction
+2020-08-01,40.607265,-74.14502,,Driver Inattention/Distraction
+2020-08-01,40.570465,-74.10977,,Driver Inattention/Distraction
+2020-08-01,40.622463,-74.07254,10304,Driver Inattention/Distraction
+2020-08-01,40.64499,-74.07936,10301,Driver Inattention/Distraction
+2020-08-01,40.58902,-74.13867,,Failure to Yield Right-of-Way
+2020-08-01,40.634644,-74.13971,,Driver Inattention/Distraction
+2020-08-01,,,10304,Driver Inattention/Distraction
+2020-08-02,40.5807,-74.19253,10309,Driver Inattention/Distraction
+2020-08-02,40.507458,-74.235855,10307,Alcohol Involvement
+2020-08-02,40.606182,-74.07613,,Passing or Lane Usage Improper
+2020-08-02,40.590813,-74.1552,,Backing Unsafely
+2020-08-02,40.630806,-74.10369,10301,Driver Inattention/Distraction
+2020-08-02,40.606354,-74.06043,,Unsafe Speed
+2020-08-02,40.551617,-74.218544,10309,Unsafe Speed
+2020-08-02,,,10310,Driver Inattention/Distraction
+2020-08-02,40.594208,-74.09505,10304,Unspecified
+2020-08-02,40.51332,-74.24439,10307,Fell Asleep
+2020-08-02,40.638077,-74.16231,,Driver Inattention/Distraction
+2020-08-03,40.606968,-74.164444,,Driver Inattention/Distraction
+2020-08-03,40.623837,-74.13208,,Unsafe Speed
+2020-08-03,40.638092,-74.0779,10301,Unspecified
+2020-08-03,40.59034,-74.06663,10305,Unspecified
+2020-08-03,40.524612,-74.230446,10309,Failure to Yield Right-of-Way
+2020-08-03,40.605396,-74.169815,,View Obstructed/Limited
+2020-08-03,40.606277,-74.06823,10305,Unspecified
+2020-08-03,40.62121,-74.080734,10304,Unspecified
+2020-08-03,40.57397,-74.16992,,Driver Inattention/Distraction
+2020-08-03,40.61893,-74.158455,,Driver Inattention/Distraction
+2020-08-03,,,10309,Unspecified
+2020-08-03,40.62908,-74.114944,10310,Unspecified
+2020-08-03,40.633827,-74.13227,,Driver Inattention/Distraction
+2020-08-03,40.54493,-74.14333,10308,Unspecified
+2020-08-03,40.591675,-74.07893,10305,Driver Inattention/Distraction
+2020-08-03,40.532425,-74.192024,10312,Unspecified
+2020-08-04,40.538727,-74.20516,10309,Unspecified
+2020-08-04,40.62699,-74.08076,10304,Unspecified
+2020-08-04,40.620018,-74.13648,,Other Vehicular
+2020-08-04,40.561733,-74.18495,10312,Backing Unsafely
+2020-08-04,40.621407,-74.08011,10304,Unspecified
+2020-08-04,40.62318,-74.14925,,Unspecified
+2020-08-04,40.5404,-74.160126,10312,Driver Inattention/Distraction
+2020-08-04,40.57322,-74.106995,,Unspecified
+2020-08-04,40.62487,-74.07961,10304,Backing Unsafely
+2020-08-04,40.64016,-74.10824,10310,Obstruction/Debris
+2020-08-04,40.585537,-74.15097,,Unspecified
+2020-08-04,40.593796,-74.135445,10314,Unspecified
+2020-08-04,40.598557,-74.081764,10305,Failure to Yield Right-of-Way
+2020-08-04,40.57494,-74.10527,,Unspecified
+2020-08-04,40.64056,-74.11801,10310,Unspecified
+2020-08-04,40.606003,-74.126915,,Unspecified
+2020-08-04,40.595913,-74.06231,10305,Unspecified
+2020-08-04,40.539215,-74.20076,10309,View Obstructed/Limited
+2020-08-04,40.622536,-74.16339,,Driver Inattention/Distraction
+2020-08-04,40.634323,-74.11979,10310,Backing Unsafely
+2020-08-05,40.61244,-74.13231,,Failure to Yield Right-of-Way
+2020-08-05,40.532482,-74.2031,10309,Unspecified
+2020-08-05,40.62055,-74.16919,,Driver Inattention/Distraction
+2020-08-05,40.566494,-74.11377,10306,Driver Inattention/Distraction
+2020-08-05,40.603844,-74.12074,10314,Driver Inexperience
+2020-08-05,40.635193,-74.07548,10301,Driver Inattention/Distraction
+2020-08-05,40.63001,-74.08173,10304,Unspecified
+2020-08-05,40.52609,-74.18032,10312,Driver Inexperience
+2020-08-05,40.608433,-74.15544,,Lost Consciousness
+2020-08-05,40.638107,-74.08495,10301,Unspecified
+2020-08-05,40.54489,-74.15665,,Unspecified
+2020-08-06,40.530567,-74.158516,10312,Following Too Closely
+2020-08-06,40.547504,-74.17622,10312,Unspecified
+2020-08-06,,,10309,Passing or Lane Usage Improper
+2020-08-06,40.614662,-74.06502,10305,Unspecified
+2020-08-06,40.59589,-74.085884,,Unsafe Lane Changing
+2020-08-06,40.59981,-74.178246,,Driver Inexperience
+2020-08-06,40.576504,-74.1037,10306,Turning Improperly
+2020-08-06,40.592434,-74.16126,,Unspecified
+2020-08-06,40.590317,-74.16424,,View Obstructed/Limited
+2020-08-06,40.609287,-74.11743,,Pavement Defective
+2020-08-06,40.5992,-74.07773,10305,Unspecified
+2020-08-07,40.628544,-74.07713,10304,Driver Inattention/Distraction
+2020-08-07,40.608776,-74.09113,,Turning Improperly
+2020-08-07,40.642326,-74.0866,10301,Unspecified
+2020-08-07,40.593273,-74.06319,10305,Unspecified
+2020-08-07,40.616276,-74.15255,,Pavement Slippery
+2020-08-07,40.55189,-74.17439,10312,Unspecified
+2020-08-07,40.63981,-74.09078,10301,Driver Inattention/Distraction
+2020-08-07,40.58982,-74.16431,,Driver Inattention/Distraction
+2020-08-07,40.594048,-74.099495,10304,Unspecified
+2020-08-07,40.602543,-74.11783,10314,Failure to Yield Right-of-Way
+2020-08-07,40.60168,-74.1633,,Driver Inattention/Distraction
+2020-08-07,40.59415,-74.086586,,Unsafe Speed
+2020-08-07,40.587868,-74.09318,10305,Driver Inattention/Distraction
+2020-08-07,40.54364,-74.17843,10312,Passing Too Closely
+2020-08-07,40.556385,-74.13814,10306,Failure to Yield Right-of-Way
+2020-08-07,40.646477,-74.083275,10301,Driver Inattention/Distraction
+2020-08-08,40.57462,-74.095764,10306,Driver Inattention/Distraction
+2020-08-08,40.622543,-74.07854,10304,Driver Inattention/Distraction
+2020-08-08,40.646458,-74.0893,10301,Unspecified
+2020-08-08,40.524475,-74.20529,,Backing Unsafely
+2020-08-08,40.617443,-74.07901,10304,Unspecified
+2020-08-08,40.63363,-74.1206,10310,Backing Unsafely
+2020-08-08,40.580315,-74.11368,10306,Driver Inattention/Distraction
+2020-08-08,40.51107,-74.24669,10307,Failure to Yield Right-of-Way
+2020-08-08,40.612717,-74.0984,10301,Driver Inattention/Distraction
+2020-08-08,,,10304,Following Too Closely
+2020-08-09,40.603542,-74.173386,,Animals Action
+2020-08-09,40.640827,-74.16811,,Driver Inattention/Distraction
+2020-08-09,40.561382,-74.147385,10308,Driver Inattention/Distraction
+2020-08-09,40.61978,-74.10793,10301,Driver Inattention/Distraction
+2020-08-09,40.595257,-74.062836,10305,Following Too Closely
+2020-08-09,40.575653,-74.10455,10306,Driver Inexperience
+2020-08-09,40.6117,-74.078636,10304,Driver Inattention/Distraction
+2020-08-09,40.559044,-74.18024,10312,Unspecified
+2020-08-09,40.629684,-74.11123,10310,Turning Improperly
+2020-08-09,40.576008,-74.10727,,Unspecified
+2020-08-09,40.576008,-74.10727,,Unspecified
+2020-08-09,40.617233,-74.16766,,Accelerator Defective
+2020-08-09,,,10312,Unspecified
+2020-08-10,40.628803,-74.15924,,Turning Improperly
+2020-08-10,40.611095,-74.11467,,Unsafe Lane Changing
+2020-08-10,40.5928,-74.06924,10305,Passing or Lane Usage Improper
+2020-08-10,40.64164,-74.11581,10310,Fell Asleep
+2020-08-10,40.621746,-74.119675,10310,Unspecified
+2020-08-10,40.611095,-74.11467,,Illnes
+2020-08-10,40.570465,-74.10977,10306,Turning Improperly
+2020-08-10,40.626698,-74.16218,,Driver Inattention/Distraction
+2020-08-10,40.612675,-74.083084,10304,Passing or Lane Usage Improper
+2020-08-10,40.602135,-74.114876,,Following Too Closely
+2020-08-10,40.539845,-74.17724,10312,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion
+2020-08-10,40.640224,-74.13667,,Driver Inattention/Distraction
+2020-08-10,40.61132,-74.114716,,Alcohol Involvement
+2020-08-10,40.63533,-74.14367,,Driver Inattention/Distraction
+2020-08-10,40.63817,-74.08454,10301,Driver Inattention/Distraction
+2020-08-10,40.63672,-74.17121,,Driver Inexperience
+2020-08-10,40.60845,-74.13405,,Driver Inattention/Distraction
+2020-08-10,40.582287,-74.16907,,Driver Inattention/Distraction
+2020-08-10,40.576965,-74.16974,,Driver Inattention/Distraction
+2020-08-10,40.608482,-74.062,10305,Driver Inattention/Distraction
+2020-08-10,40.55397,-74.14487,10308,Alcohol Involvement
+2020-08-10,40.601204,-74.06509,,Passing or Lane Usage Improper
+2020-08-10,40.607777,-74.08597,10304,Driver Inattention/Distraction
+2020-08-10,40.575325,-74.110954,,Driver Inattention/Distraction
+2020-08-10,40.58781,-74.09851,10304,Unspecified
+2020-08-10,40.63239,-74.12822,10310,Turning Improperly
+2020-08-11,40.588757,-74.09651,10304,Driver Inattention/Distraction
+2020-08-11,40.58388,-74.16878,,Oversized Vehicle
+2020-08-11,40.621647,-74.16699,,Unspecified
+2020-08-11,40.63706,-74.07648,10301,Passing Too Closely
+2020-08-11,40.6271,-74.12514,10310,Driver Inattention/Distraction
+2020-08-11,40.58004,-74.11396,10306,Following Too Closely
+2020-08-11,40.63681,-74.158226,,Driver Inattention/Distraction
+2020-08-11,40.63443,-74.1012,10301,Driver Inattention/Distraction
+2020-08-11,40.610855,-74.070625,10305,Unspecified
+2020-08-12,40.61026,-74.097496,10304,Driver Inexperience
+2020-08-12,40.61026,-74.097496,10304,Driver Inexperience
+2020-08-12,40.563446,-74.169754,10312,Traffic Control Disregarded
+2020-08-12,40.62782,-74.12126,10310,Steering Failure
+2020-08-12,40.63795,-74.14479,,Driver Inattention/Distraction
+2020-08-12,40.62495,-74.14521,,Driver Inattention/Distraction
+2020-08-12,40.63316,-74.152016,,Unspecified
+2020-08-12,40.64289,-74.11386,10310,Unspecified
+2020-08-12,40.54101,-74.14711,10308,Following Too Closely
+2020-08-12,40.568764,-74.11149,,Unsafe Speed
+2020-08-12,40.63095,-74.076546,10304,Other Vehicular
+2020-08-12,40.608776,-74.09113,,Driver Inattention/Distraction
+2020-08-12,40.611774,-74.07069,,Driver Inattention/Distraction
+2020-08-12,40.61242,-74.09936,10301,Unsafe Lane Changing
+2020-08-12,40.54101,-74.14711,10308,Traffic Control Disregarded
+2020-08-12,40.611122,-74.176506,,Driver Inattention/Distraction
+2020-08-13,40.621273,-74.08053,10304,Driver Inattention/Distraction
+2020-08-13,40.57323,-74.14702,10306,Pavement Slippery
+2020-08-13,40.59589,-74.085884,,Following Too Closely
+2020-08-13,40.61519,-74.08927,10304,Unspecified
+2020-08-13,40.61305,-74.087395,10304,Unspecified
+2020-08-13,40.593872,-74.09981,10304,Unspecified
+2020-08-13,40.61751,-74.07305,10305,Driver Inattention/Distraction
+2020-08-13,40.56763,-74.11263,10306,Following Too Closely
+2020-08-13,40.62156,-74.16849,,Driver Inattention/Distraction
+2020-08-14,40.611313,-74.09844,,Unspecified
+2020-08-14,40.609016,-74.072784,10305,Other Vehicular
+2020-08-14,40.590153,-74.1592,,Failure to Yield Right-of-Way
+2020-08-14,40.573044,-74.13595,10306,Driver Inattention/Distraction
+2020-08-14,40.608833,-74.12118,10314,Illnes
+2020-08-14,40.59205,-74.09086,,Backing Unsafely
+2020-08-14,40.609356,-74.06265,,Failure to Yield Right-of-Way
+2020-08-14,40.611942,-74.15944,,Driver Inattention/Distraction
+2020-08-14,40.552948,-74.168106,,Driver Inattention/Distraction
+2020-08-14,40.570465,-74.10977,10306,Failure to Yield Right-of-Way
+2020-08-14,40.631752,-74.15123,,Driver Inattention/Distraction
+2020-08-14,40.640827,-74.17015,,Driver Inattention/Distraction
+2020-08-14,40.55057,-74.16758,,Passing Too Closely
+2020-08-14,40.6372,-74.16504,,Driver Inattention/Distraction
+2020-08-14,40.590706,-74.165794,,Driver Inattention/Distraction
+2020-08-14,40.545395,-74.16575,10312,Unspecified
+2020-08-14,40.612156,-74.11694,10314,Driver Inattention/Distraction
+2020-08-14,40.626736,-74.1444,,Driver Inattention/Distraction
+2020-08-15,40.635796,-74.16241,,Driver Inattention/Distraction
+2020-08-15,40.579372,-74.16948,,Driver Inattention/Distraction
+2020-08-15,40.63854,-74.107346,10310,Reaction to Uninvolved Vehicle
+2020-08-15,40.638077,-74.13329,,Unspecified
+2020-08-15,40.63656,-74.16357,,Driver Inattention/Distraction
+2020-08-15,40.626415,-74.13009,10310,Following Too Closely
+2020-08-15,40.61636,-74.15677,,Passing or Lane Usage Improper
+2020-08-15,40.612377,-74.13324,,Driver Inattention/Distraction
+2020-08-15,40.614216,-74.161514,,Passing Too Closely
+2020-08-15,40.637833,-74.08193,10301,Failure to Yield Right-of-Way
+2020-08-15,40.539474,-74.175095,,Failure to Yield Right-of-Way
+2020-08-15,40.551987,-74.17359,10312,Other Vehicular
+2020-08-15,40.606865,-74.08805,10304,Failure to Yield Right-of-Way
+2020-08-15,40.618057,-74.12363,10314,Driver Inattention/Distraction
+2020-08-15,40.634647,-74.13187,,Driver Inattention/Distraction
+2020-08-16,40.62023,-74.16535,,Unsafe Speed
+2020-08-16,40.6357,-74.12048,10310,Unspecified
+2020-08-16,40.54363,-74.17345,10312,Failure to Yield Right-of-Way
+2020-08-16,40.608063,-74.16231,,Driver Inexperience
+2020-08-16,40.610508,-74.09576,,Drugs (illegal)
+2020-08-16,40.625916,-74.13449,,Driver Inattention/Distraction
+2020-08-17,40.60111,-74.08831,10304,Failure to Yield Right-of-Way
+2020-08-17,40.6357,-74.12048,10310,Unspecified
+2020-08-17,40.638298,-74.11394,10310,Unspecified
+2020-08-17,40.62415,-74.16371,,Failure to Yield Right-of-Way
+2020-08-17,40.6229,-74.14943,,Driver Inattention/Distraction
+2020-08-17,40.561077,-74.16984,10312,Driver Inattention/Distraction
+2020-08-17,40.549477,-74.14933,10308,Driver Inattention/Distraction
+2020-08-17,40.573387,-74.13646,10306,Unspecified
+2020-08-17,40.588837,-74.16262,,Driver Inattention/Distraction
+2020-08-17,40.597828,-74.06477,10305,Backing Unsafely
+2020-08-17,40.6101,-74.11668,,Following Too Closely
+2020-08-17,40.579372,-74.16948,,Driver Inattention/Distraction
+2020-08-17,40.63264,-74.09052,10301,Unspecified
+2020-08-17,40.64465,-74.085075,10301,Unsafe Speed
+2020-08-18,40.530308,-74.20269,,Unspecified
+2020-08-18,40.617832,-74.08627,10304,Driver Inattention/Distraction
+2020-08-18,40.55802,-74.1374,,Reaction to Uninvolved Vehicle
+2020-08-18,40.630318,-74.08683,10304,Driver Inattention/Distraction
+2020-08-18,40.627502,-74.14224,,Driver Inattention/Distraction
+2020-08-18,40.565254,-74.1301,10306,Driver Inattention/Distraction
+2020-08-18,40.524,-74.186104,,Following Too Closely
+2020-08-18,40.62873,-74.11893,10310,Unspecified
+2020-08-18,40.63056,-74.1057,,Unspecified
+2020-08-18,40.62902,-74.14321,,Driver Inattention/Distraction
+2020-08-18,40.61132,-74.114716,,Passing or Lane Usage Improper
+2020-08-18,40.55613,-74.203354,,Driver Inattention/Distraction
+2020-08-18,40.63598,-74.158005,,Unspecified
+2020-08-18,40.619804,-74.084564,10304,Driver Inattention/Distraction
+2020-08-19,40.621403,-74.08322,10304,Unspecified
+2020-08-19,40.555397,-74.13038,10306,Backing Unsafely
+2020-08-19,40.625816,-74.08338,10304,Driver Inattention/Distraction
+2020-08-19,40.597633,-74.07388,10305,Unsafe Speed
+2020-08-19,40.631157,-74.14692,,Driver Inattention/Distraction
+2020-08-19,40.54733,-74.19694,10312,Driver Inattention/Distraction
+2020-08-19,40.63884,-74.12929,,Driver Inattention/Distraction
+2020-08-19,40.61565,-74.15709,,Driver Inattention/Distraction
+2020-08-19,40.57545,-74.10786,,Traffic Control Disregarded
+2020-08-20,40.61858,-74.16087,,Unspecified
+2020-08-20,40.618023,-74.10136,10301,Driver Inattention/Distraction
+2020-08-20,40.547367,-74.16493,10312,Driver Inattention/Distraction
+2020-08-20,40.607555,-74.08711,,Driver Inattention/Distraction
+2020-08-20,40.516335,-74.23283,10309,Reaction to Uninvolved Vehicle
+2020-08-20,40.613335,-74.15849,,Driver Inattention/Distraction
+2020-08-20,40.556377,-74.16886,10312,Unspecified
+2020-08-20,40.630966,-74.12957,10310,Driver Inattention/Distraction
+2020-08-20,40.608253,-74.08879,,Driver Inattention/Distraction
+2020-08-20,40.57089,-74.1479,10306,Passing or Lane Usage Improper
+2020-08-20,40.589935,-74.145676,,Passing or Lane Usage Improper
+2020-08-20,40.558887,-74.1977,,Lost Consciousness
+2020-08-20,40.631725,-74.13824,,Driver Inattention/Distraction
+2020-08-20,40.64289,-74.11386,10310,Unspecified
+2020-08-20,40.553486,-74.13179,10306,Traffic Control Disregarded
+2020-08-20,40.571625,-74.11192,,Unspecified
+2020-08-20,40.620365,-74.08581,10304,Unspecified
+2020-08-20,40.604397,-74.069,10305,Unspecified
+2020-08-20,40.611298,-74.17637,,Driver Inattention/Distraction
+2020-08-20,40.608776,-74.09113,,Driver Inattention/Distraction
+2020-08-21,40.61026,-74.097496,,Unspecified
+2020-08-21,40.60203,-74.12943,,Driver Inattention/Distraction
+2020-08-21,40.561172,-74.10414,10306,Backing Unsafely
+2020-08-21,40.59861,-74.080765,10305,Unsafe Lane Changing
+2020-08-21,40.602333,-74.12948,,Driver Inattention/Distraction
+2020-08-21,40.59419,-74.06182,,Backing Unsafely
+2020-08-21,40.607857,-74.121086,,Driver Inattention/Distraction
+2020-08-21,40.561707,-74.172264,,Passing or Lane Usage Improper
+2020-08-21,40.516907,-74.240814,10307,Failure to Yield Right-of-Way
+2020-08-21,40.638966,-74.091866,10301,Driver Inattention/Distraction
+2020-08-21,40.62542,-74.14409,,Unspecified
+2020-08-21,40.60707,-74.09241,,Reaction to Uninvolved Vehicle
+2020-08-22,40.523464,-74.234856,10309,Unspecified
+2020-08-22,40.606182,-74.07613,,Unsafe Speed
+2020-08-22,40.629696,-74.07568,10304,Unspecified
+2020-08-22,40.53213,-74.22308,10309,Following Too Closely
+2020-08-22,40.624035,-74.08269,10304,Unsafe Lane Changing
+2020-08-22,40.63379,-74.142784,,Failure to Yield Right-of-Way
+2020-08-22,40.610256,-74.0973,,Unspecified
+2020-08-22,40.596333,-74.13378,,Driver Inattention/Distraction
+2020-08-22,40.622196,-74.09658,10301,Unspecified
+2020-08-22,40.535835,-74.19648,,Reaction to Uninvolved Vehicle
+2020-08-22,40.610146,-74.15127,,Unspecified
+2020-08-22,40.587643,-74.16053,,Driver Inattention/Distraction
+2020-08-22,40.516956,-74.23369,10307,Unspecified
+2020-08-22,40.62459,-74.13656,,Driver Inattention/Distraction
+2020-08-22,40.516594,-74.23766,10307,Alcohol Involvement
+2020-08-22,40.61578,-74.103035,10301,Alcohol Involvement
+2020-08-23,40.629684,-74.1429,,Driver Inattention/Distraction
+2020-08-23,40.59034,-74.06663,10305,View Obstructed/Limited
+2020-08-23,40.606987,-74.06714,10305,Failure to Yield Right-of-Way
+2020-08-23,40.524612,-74.230446,10309,Failure to Yield Right-of-Way
+2020-08-23,40.537716,-74.167465,,Following Too Closely
+2020-08-23,40.637154,-74.1602,,Driver Inattention/Distraction
+2020-08-23,40.60707,-74.09241,10304,Turning Improperly
+2020-08-23,40.57925,-74.07781,10305,Failure to Yield Right-of-Way
+2020-08-23,40.575306,-74.121124,10306,Failure to Yield Right-of-Way
+2020-08-23,40.642063,-74.07854,10301,Following Too Closely
+2020-08-23,,,10310,Driver Inattention/Distraction
+2020-08-23,40.509296,-74.24606,10307,Driver Inattention/Distraction
+2020-08-23,40.611736,-74.15884,,Driver Inattention/Distraction
+2020-08-24,40.6281,-74.14118,,Unspecified
+2020-08-24,40.60442,-74.123024,,Driver Inattention/Distraction
+2020-08-24,40.621407,-74.08011,10304,Driver Inattention/Distraction
+2020-08-24,40.62382,-74.08201,10304,Driver Inattention/Distraction
+2020-08-24,40.56146,-74.11227,10306,Passing or Lane Usage Improper
+2020-08-24,40.62655,-74.076965,10304,Backing Unsafely
+2020-08-24,40.60514,-74.09259,10304,Following Too Closely
+2020-08-24,40.616917,-74.07852,,Unspecified
+2020-08-24,40.616413,-74.103516,10301,Failure to Yield Right-of-Way
+2020-08-24,40.59075,-74.08837,10305,Driver Inattention/Distraction
+2020-08-24,40.64002,-74.08949,10301,Unspecified
+2020-08-24,40.524612,-74.230446,10309,Failure to Yield Right-of-Way
+2020-08-24,40.552,-74.1679,,Lost Consciousness
+2020-08-24,40.632267,-74.131424,,Driver Inattention/Distraction
+2020-08-24,40.588924,-74.167625,,Driver Inattention/Distraction
+2020-08-25,40.633747,-74.15398,,Driver Inattention/Distraction
+2020-08-25,40.633747,-74.153946,,Driver Inattention/Distraction
+2020-08-25,40.618187,-74.06915,10305,Driver Inattention/Distraction
+2020-08-25,40.537704,-74.23724,10309,Backing Unsafely
+2020-08-25,40.589096,-74.07259,,Driver Inattention/Distraction
+2020-08-25,40.511734,-74.21044,10309,Passing or Lane Usage Improper
+2020-08-25,40.646534,-74.08642,10301,Driver Inattention/Distraction
+2020-08-25,40.5878,-74.16564,,Driver Inattention/Distraction
+2020-08-25,40.64188,-74.09642,10301,Unspecified
+2020-08-25,40.60707,-74.09241,10304,Turning Improperly
+2020-08-25,40.550133,-74.14213,10308,Driver Inattention/Distraction
+2020-08-26,40.63829,-74.12128,10310,Unspecified
+2020-08-26,40.558887,-74.1977,10312,Obstruction/Debris
+2020-08-26,40.637596,-74.076775,10301,View Obstructed/Limited
+2020-08-26,40.644848,-74.08308,10301,Driver Inattention/Distraction
+2020-08-26,40.554672,-74.21301,,Reaction to Uninvolved Vehicle
+2020-08-26,40.603832,-74.06895,,Unsafe Speed
+2020-08-26,40.633636,-74.151955,,Failure to Yield Right-of-Way
+2020-08-26,40.608776,-74.09113,,Alcohol Involvement
+2020-08-27,40.594616,-74.12555,10314,Unsafe Speed
+2020-08-27,40.63237,-74.13017,10310,Unspecified
+2020-08-27,40.618244,-74.155464,,Driver Inexperience
+2020-08-27,40.635963,-74.14849,,Driver Inattention/Distraction
+2020-08-27,40.579185,-74.09941,10306,Failure to Yield Right-of-Way
+2020-08-27,40.636665,-74.11976,10310,Unspecified
+2020-08-27,40.642113,-74.07821,10301,Unspecified
+2020-08-27,40.62558,-74.08102,10304,Passing Too Closely
+2020-08-27,40.62055,-74.16919,,Driver Inattention/Distraction
+2020-08-27,40.63858,-74.13695,,Failure to Yield Right-of-Way
+2020-08-27,40.559128,-74.16949,,Failure to Yield Right-of-Way
+2020-08-27,40.635395,-74.11739,10310,Unspecified
+2020-08-27,40.616016,-74.13771,,Pavement Slippery
+2020-08-28,40.590706,-74.165794,,Fell Asleep
+2020-08-28,40.63056,-74.1057,,Unspecified
+2020-08-28,40.59924,-74.09179,10304,Passing or Lane Usage Improper
+2020-08-28,40.521835,-74.23504,10309,Following Too Closely
+2020-08-28,40.538647,-74.17161,,Driver Inattention/Distraction
+2020-08-28,40.632465,-74.11849,10310,Driver Inexperience
+2020-08-28,40.626842,-74.075745,10304,Driver Inattention/Distraction
+2020-08-28,40.583042,-74.096176,,Following Too Closely
+2020-08-28,40.549503,-74.21613,10309,Driver Inattention/Distraction
+2020-08-28,40.61521,-74.16381,,Failure to Yield Right-of-Way
+2020-08-28,40.64445,-74.07683,10301,Unspecified
+2020-08-28,40.57089,-74.1479,,Pavement Slippery
+2020-08-28,40.618187,-74.06915,10305,Driver Inattention/Distraction
+2020-08-28,40.599052,-74.1627,,Other Vehicular
+2020-08-28,40.608982,-74.088135,10304,Passing Too Closely
+2020-08-29,40.63367,-74.12945,10310,Unspecified
+2020-08-29,40.63683,-74.139114,,Driver Inattention/Distraction
+2020-08-29,40.611073,-74.08872,10304,Unspecified
+2020-08-29,40.591736,-74.09668,10304,Animals Action
+2020-08-29,40.60415,-74.091156,,Unsafe Speed
+2020-08-29,40.57925,-74.07781,10305,Unspecified
+2020-08-29,40.52864,-74.21685,10309,Unspecified
+2020-08-29,40.63562,-74.135056,,Unspecified
+2020-08-29,40.546955,-74.18129,,Unspecified
+2020-08-29,40.537857,-74.17414,,Driver Inattention/Distraction
+2020-08-29,40.625916,-74.13452,,Driver Inattention/Distraction
+2020-08-29,40.588924,-74.167625,,Driver Inattention/Distraction
+2020-08-29,40.55573,-74.123375,10306,Unspecified
+2020-08-30,40.61408,-74.072464,10305,Unspecified
+2020-08-30,40.615147,-74.08284,10304,Driver Inattention/Distraction
+2020-08-30,40.541084,-74.18849,10312,Driver Inattention/Distraction
+2020-08-30,40.548447,-74.16711,,Passing or Lane Usage Improper
+2020-08-30,40.530617,-74.16226,10312,Unspecified
+2020-08-30,40.542152,-74.1708,10312,Unspecified
+2020-08-30,40.5377,-74.15002,,Driver Inattention/Distraction
+2020-08-30,40.59939,-74.081314,10305,Passenger Distraction
+2020-08-30,40.560776,-74.16273,10308,Failure to Yield Right-of-Way
+2020-08-30,40.64068,-74.118065,10310,Driver Inexperience
+2020-08-30,40.570816,-74.092705,10306,Failure to Yield Right-of-Way
+2020-08-30,40.62058,-74.16359,,Driver Inattention/Distraction
+2020-08-30,40.620438,-74.1672,,Following Too Closely
+2020-08-30,40.575256,-74.12126,10306,Failure to Yield Right-of-Way
+2020-08-30,40.613804,-74.11338,10301,Brakes Defective
+2020-08-30,40.577946,-74.102325,10306,Failure to Yield Right-of-Way
+2020-08-31,40.64757,-74.08743,10301,Other Vehicular
+2020-08-31,40.62934,-74.07464,10304,Passing Too Closely
+2020-08-31,40.64056,-74.11801,10310,Driver Inattention/Distraction
+2020-08-31,40.537125,-74.14902,10308,Driver Inattention/Distraction
+2020-08-31,40.629665,-74.08111,10304,Driver Inattention/Distraction
+2020-08-31,40.638912,-74.08818,10301,Driver Inexperience
+2020-08-31,40.571663,-74.09192,10306,Following Too Closely
+2020-08-31,40.626545,-74.09159,10301,Driver Inattention/Distraction
+2020-08-31,40.63173,-74.1249,10310,Unspecified
+2020-08-31,40.564537,-74.13171,10306,Unspecified
+2020-08-31,40.640453,-74.1145,10310,Brakes Defective
+2020-08-31,40.52609,-74.18032,,Driver Inattention/Distraction
+2020-08-31,40.550148,-74.18758,10312,Driver Inattention/Distraction
+2020-08-31,40.553017,-74.175575,10312,Unspecified
+2020-09-01,40.6041,-74.06908,,Following Too Closely
+2020-09-01,40.645187,-74.08852,10301,Unspecified
+2020-09-01,40.634888,-74.14572,,Driver Inattention/Distraction
+2020-09-01,40.607685,-74.13892,,Passing or Lane Usage Improper
+2020-09-01,40.62831,-74.14879,,Driver Inattention/Distraction
+2020-09-01,40.525764,-74.2273,,Following Too Closely
+2020-09-01,40.63628,-74.16507,,Unspecified
+2020-09-01,40.570877,-74.16984,,Driver Inattention/Distraction
+2020-09-01,40.577686,-74.166115,,Failure to Yield Right-of-Way
+2020-09-01,40.608433,-74.15544,,Illnes
+2020-09-01,40.633183,-74.0899,10301,Illnes
+2020-09-01,40.591396,-74.164856,,Turning Improperly
+2020-09-01,40.536503,-74.19681,,Unspecified
+2020-09-01,40.566494,-74.11377,,View Obstructed/Limited
+2020-09-01,40.56266,-74.192856,10312,Unsafe Speed
+2020-09-01,40.61334,-74.11919,10314,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion
+2020-09-01,40.6347,-74.10553,10301,Driver Inattention/Distraction
+2020-09-01,40.622154,-74.158325,,Backing Unsafely
+2020-09-01,40.61324,-74.12045,10314,Driver Inattention/Distraction
